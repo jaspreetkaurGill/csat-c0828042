@@ -1,0 +1,1 @@
+docker build -t jaspreetkaurk760/nodejs-image-demo-csad-1 .
